@@ -1,6 +1,8 @@
-<span class="anim-fade-in"><%= octicon("mark-github", :height => 32, :class => "v-align-middle mr-2") %>
+<%= octicon("mark-github", :class => "anim-pulse") %>
 
-#f1f8ff, $bg-blue-light
+<span class="anim-fade-in"><%= octicon("mark-github", :height => 32, :class => "v-align-middle mr-2") %> # Bitwise AND Operations in Java  </span>
+
+
 # Bitwise AND Operations in Java 
 
 ## Bitwise Operations
@@ -26,4 +28,3 @@
 <img width="764" alt="RegularExpressionsJava" src="https://github.com/jaimehernan95/BitwiseOperations/blob/main/image/bO2.png">
 
 
-</span>
