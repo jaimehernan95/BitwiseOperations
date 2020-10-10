@@ -1,6 +1,4 @@
-<%= octicon("mark-github", :class => "anim-pulse") %>
-
-<span class="anim-fade-in"><%= octicon("mark-github", :height => 32, :class => "v-align-middle mr-2") %> # Bitwise AND Operations in Java  </span>
+ # Bitwise AND Operations in Java 
 
 
 # Bitwise AND Operations in Java 
