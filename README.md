@@ -1,3 +1,6 @@
+<span class="anim-fade-in"><%= octicon("mark-github", :height => 32, :class => "v-align-middle mr-2") %>
+
+#f1f8ff, $bg-blue-light
 # Bitwise AND Operations in Java 
 
 ## Bitwise Operations
@@ -23,9 +26,4 @@
 <img width="764" alt="RegularExpressionsJava" src="https://github.com/jaimehernan95/BitwiseOperations/blob/main/image/bO2.png">
 
 
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/jaimehernan95/BitwiseOperationsJava.git
-git push -u origin main
-# BitwiseOperations
-# BitwiseOperations
+</span>
